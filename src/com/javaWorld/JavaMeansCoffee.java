@@ -20,7 +20,7 @@ public class JavaMeansCoffee {
 				String revstring = new String(charArray1);
 			   System.out.print(" "+revstring);
 			} else {
-				System.out.print("Please enter some string..");
+				System.out.print("Please enter some string TO REVERSE..");
 			}
 		}
 	}
