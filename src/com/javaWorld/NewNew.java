@@ -6,6 +6,7 @@ public class NewNew {
 		// TODO Auto-generated method stub
 		String str = "Hello please check the mail";
 		String[] array = str.split(" ");
+		System.out.println(str);
 	}
 
 }
