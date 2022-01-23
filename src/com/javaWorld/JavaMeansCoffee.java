@@ -18,8 +18,10 @@ public class JavaMeansCoffee {
 					k++;
 				}
 				String revstring = new String(charArray1);
+				System.out.print("Enteredstring is..."+str);
 			   System.out.print(" "+revstring);
 			} else {
+				
 				System.out.print("Please enter some string..");
 			}
 		}
