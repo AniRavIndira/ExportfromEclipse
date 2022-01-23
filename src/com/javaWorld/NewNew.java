@@ -7,6 +7,7 @@ public class NewNew {
 		String str = "Hello please check the mail";
 		String[] array = str.split(" ");
 		System.out.println(str);
+		System.out.println("local new");
 	}
 
 }
