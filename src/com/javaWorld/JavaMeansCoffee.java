@@ -18,11 +18,12 @@ public class JavaMeansCoffee {
 					k++;
 				}
 				String revstring = new String(charArray1);
-				System.out.print("Enteredstring is..."+str);
+				System.out.print("Enteredstring is..."+str);// mine
 			   System.out.print(" "+revstring);
 			} else {
-				
-				System.out.print("Please enter some string..");
+
+			System.out.print("Please enter some string TO REVERSE..");//added in remote 
+
 			}
 		}
 	}
